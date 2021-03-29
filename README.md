@@ -5,6 +5,10 @@
 
 ### [Click Here to access Google Sheets presentation](https://docs.google.com/presentation/d/16BIqBy9ejezUTJsVLJnAEyl2HWQhgAKd4O99gPBHUYY/edit#slide=id.p).
 
+## Tableau 
+
+### [Click Here to access Tableau Dashboard](https://public.tableau.com/profile/nazanin6981#!/vizhome/Alcohol_CA_Final/LiquorLicensesandClose-ProximityPopulationDemographics?publish=yes)
+
 ## Overview
 The CDC publishes a fascinating dataset detailing the racial/ethnic percentages of persons living within **0.25 miles of an establishment with a liquor license**. Much research has been conducted to investigate the relationship between proximity to liquor establsihments and demographics such as race and socioeconomic factors.
 
@@ -97,7 +101,7 @@ The dashboard will be built using **Tableau**. Visualizations to tell this story
 Our Tableau analysis can be found here: [Tableau Dashboard
 ](https://public.tableau.com/profile/nazanin6981#!/vizhome/Alcohol_CA_Final/LiquorLicensesandClose-ProximityPopulationDemographics?publish=yes)
 
-*Link to Dashboard can be found in presentation link above.*
+*Link to Dashboard can be found in Tableau link above.*
 
 ## GitHub and Communication Protocol
 
