@@ -117,17 +117,6 @@ An additional branch was employed as our tasks change throughout this process:
 
 * ```peer_review```  
 
-Each team member has a role to play and for **Week 3**  they are:
-
-* Circle Role (```dashboard```): Nazanin Tavakoli 
-* Square Role (```peer_review```): Jackie Chitsanga
-* Triangle Role (```data_analysis```): Maggie McPhail
-* X Role (```machine_learning```): Devin Hollister
-
-All Team members are responsibile for continued improvement of machine learning and data cleaning.
-
-Each week, our team will have a minimum of 4 commits per member.  For **Week 3**:
-![commits](./Images/week3_commits.png)
 
 #### Communication Protocol
 In addition to utilizing **GitHub** and our **Slack** channel, this team will meet weekly during and/or before normal class times on **Monday** and **Wednesday** evenings as well as via **Zoom** as needed.
