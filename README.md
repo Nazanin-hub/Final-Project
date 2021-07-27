@@ -67,7 +67,7 @@ The following technologies, modules, and functions within Python will be used to
 * imblearn.metrics: ```classification_report_imbalanced```
 
 
-Once the dataset is cleaned and transformed, we can start compiling, training, and evaluating the model. A **Linear Regression model** will be employed as the predicted outcome of this model will be in the form of a categorical dependent variable.
+Once the dataset is cleaned and transformed, we can start compiling, training, and evaluating the model. A **balanced random forest model** will be employed as the predicted outcome of this model will be in the form of a categorical dependent variable.
 
 Our input factors (y) will include:
 
